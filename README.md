@@ -9,7 +9,6 @@
   <a href="./public/Marc-Angelo-Mendoza-CV.pdf"><img src="https://img.shields.io/badge/RESUME-171816?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Read Marc's résumé"></a>
   <a href="https://www.linkedin.com/in/marc-angelo-mendoza-b9a172349"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect with Marc on LinkedIn"></a>
   <a href="mailto:mendoza.marcangelo28@gmail.com"><img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Marc"></a>
-  <a href="https://github.com/Necko0204"><img src="https://img.shields.io/badge/GITHUB-171816?style=for-the-badge&logo=github&logoColor=white" alt="View Marc's GitHub profile"></a>
   <a href="https://www.facebook.com/necko.houtaro"><img src="https://img.shields.io/badge/FACEBOOK-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Marc on Facebook"></a>
   <a href="https://www.instagram.com/marcc.angelo"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Marc on Instagram"></a>
   <a href="https://www.tiktok.com/@vague.zz"><img src="https://img.shields.io/badge/TIKTOK-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="Marc on TikTok"></a>
