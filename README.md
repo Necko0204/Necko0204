@@ -12,6 +12,8 @@
   <a href="https://www.facebook.com/necko.houtaro"><img src="https://img.shields.io/badge/FACEBOOK-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Marc on Facebook"></a>
   <a href="https://www.instagram.com/marcc.angelo"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Marc on Instagram"></a>
   <a href="https://www.tiktok.com/@vague.zz"><img src="https://img.shields.io/badge/TIKTOK-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="Marc on TikTok"></a>
+  <a href="https://t.me/marccangelo2"><img src="https://img.shields.io/badge/TELEGRAM-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Message Marc on Telegram"></a>
+  <a href="https://wa.me/639602161734"><img src="https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Message Marc on WhatsApp"></a>
 </p>
 
 <p><code>● OPEN TO WEB DEVELOPMENT OPPORTUNITIES</code></p>
