@@ -3,7 +3,7 @@
 ![Marc Angelo Mendoza — Full Stack Web Developer](./public/readme-hero.svg)
 
 <p>
-  <a href="https://portfolio-marc-mendoza.onrender.com"><strong>LIVE PORTFOLIO ↗</strong></a>
+  <a href="https://portfolio-marc2.vercel.app/"><strong>LIVE PORTFOLIO ↗</strong></a>
   &nbsp;&nbsp;·&nbsp;&nbsp;
   <a href="mailto:mendoza.marcangelo28@gmail.com"><strong>START A CONVERSATION</strong></a>
   &nbsp;&nbsp;·&nbsp;&nbsp;
